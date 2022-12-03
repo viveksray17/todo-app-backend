@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"target": "es2017",
+		"module": "esnext",
+		"outDir": "dist",
+		"removeComments": true,
+		"esModuleInterop": true,
+		"allowSyntheticDefaultImports": true,
+		"noEmitOnError": true,
+		"strict": true
+	},
+	"include": ["src"]
+}
